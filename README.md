@@ -17,7 +17,7 @@ This account is organized as a proof-of-work layer for the portfolio site.
 | Project | What it shows |
 | --- | --- |
 | [teddyalston-cv](https://github.com/imperator-clawdius/teddyalston-cv) | GitHub Pages portfolio and CV site published at `teddyalston.com`. |
-| [launchdesk](https://github.com/imperator-clawdius/launchdesk) | Self-hostable launch cockpit for turning small-service ideas into revenue systems. |
+| [launchdesk](https://github.com/imperator-clawdius/launchdesk) | Free, open-source, MIT-licensed GitHub service for turning small-service ideas into revenue systems. |
 | [getpocketdungeon.com](https://github.com/imperator-clawdius/getpocketdungeon.com) | Public website for Pocket Dungeon, an AI-assisted tabletop RPG companion under construction. |
 
 ## Private case-study work
