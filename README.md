@@ -16,6 +16,8 @@ This account is organized as a proof-of-work layer for the portfolio site.
 
 | Project | What it shows |
 | --- | --- |
+| [TraceReady](https://github.com/imperator-clawdius/traceready) | Public farm-file cleanup product for coffee/cocoa traceability handoff packs. |
+| [teddyalston.com catalog](https://teddyalston.com/catalog.html) | Prioritized public-safe catalog of GitHub and local project work. |
 | [teddyalston-cv](https://github.com/imperator-clawdius/teddyalston-cv) | GitHub Pages portfolio and CV site published at `teddyalston.com`. |
 | [launchdesk](https://github.com/imperator-clawdius/launchdesk) | Free, open-source, MIT-licensed GitHub service for turning small-service ideas into revenue systems. |
 | [getpocketdungeon.com](https://github.com/imperator-clawdius/getpocketdungeon.com) | Public website for Pocket Dungeon, an AI-assisted tabletop RPG companion under construction. |
@@ -25,11 +27,16 @@ This account is organized as a proof-of-work layer for the portfolio site.
 These repositories are intentionally private, but they are available as portfolio case studies when source access is not appropriate:
 
 - SuiteScrape: AI web intelligence and scraping SaaS workspace.
+- NightAnchor: native iOS Screen Time sleep enforcement app.
 - Pocket Dungeon: Android app, backend, provider routing, and content pipeline.
 - Helm AI Receptionist: local-business intake, calls, booking, and automation.
 - PactLock: Windows tester package for a focus-lock product experiment.
 - PayPrompt: mobile/payment prompt workflow and Android release prep.
 - TeachBridge: education product and local verification cockpit.
+- Haven Cove: Expo, Next.js, Supabase, and shared TypeScript monorepo.
+- Argos Vendor Command: agentic vendor onboarding and third-party risk workflow.
+- BurnWatch: wildfire and severe-weather intelligence prototype.
+- Monster Trail Modern HD: private Android game launch kit.
 - Jarvis Onshape MCP: CAD automation, FeatureScript, and parametric iteration.
 
 ## Current profile hygiene
