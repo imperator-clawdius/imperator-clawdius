@@ -40,6 +40,7 @@ These repositories and operating assets are intentionally handled at case-study 
 - BurnWatch: wildfire and severe-weather intelligence prototype.
 - Monster Trail Modern HD: private Android game launch kit.
 - Jarvis Onshape MCP: CAD automation, FeatureScript, and parametric iteration.
+- Project Medusa and Trireme: private agent registry/control-plane and multi-agent coordination work, represented only at public-safe case-study level.
 
 ## Current profile hygiene
 
